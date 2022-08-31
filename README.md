@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on several interesting projects👨‍💻👨‍💻.<br>👯 I’m looking to collaborate on any open-source project.<br>🌱 I’m currently learning Vue.js, Tailwind.<br>💬 Ask me about react, JavaScript, CSS.<br>⚡ Fun fact: Venus is the only planet to spin clockwise🪐🪐
+🔭 I’m currently working on several interesting projects😉👨‍💻.<br>👯 I’m looking to collaborate on any open-source project.<br>🌱 I’m currently learning Vue.js, Tailwind.<br>💬 Ask me about react, JavaScript, CSS.<br>⚡ Fun fact: Venus is the only planet to spin clockwise🪐🪐
 
 
 ## 🌐 Socials:
